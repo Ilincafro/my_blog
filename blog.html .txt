@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Fr._i_blog</title>
+</head>
+
+<body>
+  <div class="menu">Tips and tricks</div> 
+  <div class="menu">REWIEWS</div>
+  <div class="menu">MEDIA</div>
+
+
+  <h1 class="title">Get to know me</h1>
+  <h5 class="text">My name is Ilinca.</h5>
+  <img src="https://www.magnolia.ro/blog/wp-content/uploads/2018/05/10-lucruri-pe-care-nu-le-stii-despre-bujori.jpg" class="image">
+  <h5 class="text">Added by:</h5>
+  <h5 class="text">Ilinca F.</h5>
+  <h5 class="text">5.01.2024</h5>
+
+  <h1 class="title">My projects</h1>
+  <h5 class="text">my portfolio</h5>
+  <img src="https://www.ziaruldeiasi.ro/app/gethumb.details.php?id=334278&w=800&h=600" class="image">
+  <h5 class="text">Added by:</h5>
+  <h5 class="text">Ilinca F.</h5>
+  <h5 class="text">13.01.2024</h5>
+
+
+  <h1 class="title">My passions</h1>
+  <h5 class="text">Traveling</h5>
+  <h5 class="text">Painting</h5>
+  <img src="https://tabarapictura.files.wordpress.com/2014/07/materiale-pictura-tabara.jpg" class="image">
+  <h5 class="text">Crafts</h5>
+  <h5 class="text">Added by:</h5>
+  <h5 class="text">Ilinca</h5>
+  <h5 class="text">27.12.2023</h5>
+
+</body>
+
+</html>
